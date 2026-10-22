@@ -1,0 +1,11 @@
+C:\Users\Daria\Lab1-V14\DomainLib\bin\Debug\net10.0\DomainLib.deps.json
+C:\Users\Daria\Lab1-V14\DomainLib\bin\Debug\net10.0\DomainLib.dll
+C:\Users\Daria\Lab1-V14\DomainLib\bin\Debug\net10.0\DomainLib.pdb
+C:\Users\Daria\Lab1-V14\DomainLib\obj\Debug\net10.0\DomainLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\Lab1-V14\DomainLib\obj\Debug\net10.0\DomainLib.AssemblyInfoInputs.cache
+C:\Users\Daria\Lab1-V14\DomainLib\obj\Debug\net10.0\DomainLib.AssemblyInfo.cs
+C:\Users\Daria\Lab1-V14\DomainLib\obj\Debug\net10.0\DomainLib.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Lab1-V14\DomainLib\obj\Debug\net10.0\DomainLib.dll
+C:\Users\Daria\Lab1-V14\DomainLib\obj\Debug\net10.0\refint\DomainLib.dll
+C:\Users\Daria\Lab1-V14\DomainLib\obj\Debug\net10.0\DomainLib.pdb
+C:\Users\Daria\Lab1-V14\DomainLib\obj\Debug\net10.0\ref\DomainLib.dll

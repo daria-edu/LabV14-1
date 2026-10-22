@@ -1,0 +1,50 @@
+﻿Student ІванПетренко
+{
+  "firstname": "Іван",
+  "lastname": "Петренко",
+  "passport": "АН123456",
+  "studentId": "KB12345678",
+  "course": "4",
+  "scholarship": "0"
+};
+Student ОленаКоваль
+{
+  "firstname": "Олена",
+  "lastname": "Коваль",
+  "passport": "АЕ654321",
+  "studentId": "KB87654321",
+  "course": "4",
+  "scholarship": "2000"
+};
+Student МаксимШевченко
+{
+  "firstname": "Максим",
+  "lastname": "Шевченко",
+  "passport": "КМ112233",
+  "studentId": "KB11223344",
+  "course": "4",
+  "scholarship": "0"
+};
+Student ОльгаБойко
+{
+  "firstname": "Ольга",
+  "lastname": "Бойко",
+  "passport": "ВН445566",
+  "studentId": "KB55667788",
+  "course": "2",
+  "scholarship": "1800"
+};
+Postman ВасильСидоренко
+{
+  "firstname": "Василь",
+  "lastname": "Сидоренко",
+  "passport": "СВ998877",
+  "deliveryZone": "Центральний район"
+};
+Mountaineer ТарасМельник
+{
+  "firstname": "Тарас",
+  "lastname": "Мельник",
+  "passport": "РР334455",
+  "highestPeak": "4807"
+};
