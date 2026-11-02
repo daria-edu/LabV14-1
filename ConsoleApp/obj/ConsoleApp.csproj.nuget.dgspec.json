@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daria\\Lab1-V14\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Lab1-V14\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daria\\Lab1-V14\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Lab1-V14\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\Lab1-V14\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Lab1-V14\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\Daria\\Lab1-V14\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Lab1-V14\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\Lab1-V14\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Lab1-V14\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daria\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Daria\\Lab1-V14\\DomainLib\\DomainLib.csproj": {
-                "projectPath": "C:\\Users\\Daria\\Lab1-V14\\DomainLib\\DomainLib.csproj"
+              "C:\\Lab1-V14\\DomainLib\\DomainLib.csproj": {
+                "projectPath": "C:\\Lab1-V14\\DomainLib\\DomainLib.csproj"
               }
             }
           }
@@ -341,14 +341,14 @@
         }
       }
     },
-    "C:\\Users\\Daria\\Lab1-V14\\DomainLib\\DomainLib.csproj": {
+    "C:\\Lab1-V14\\DomainLib\\DomainLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\Lab1-V14\\DomainLib\\DomainLib.csproj",
+        "projectUniqueName": "C:\\Lab1-V14\\DomainLib\\DomainLib.csproj",
         "projectName": "DomainLib",
-        "projectPath": "C:\\Users\\Daria\\Lab1-V14\\DomainLib\\DomainLib.csproj",
+        "projectPath": "C:\\Lab1-V14\\DomainLib\\DomainLib.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\Lab1-V14\\DomainLib\\obj\\",
+        "outputPath": "C:\\Lab1-V14\\DomainLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daria\\AppData\\Roaming\\NuGet\\NuGet.Config"

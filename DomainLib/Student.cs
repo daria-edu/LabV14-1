@@ -28,7 +28,7 @@ namespace DomainLib
             return $"[Студент] {base.GetInfo()}, Курс: {Course}, Квиток: {StudentId}, Стипендія: {Scholarship} грн";
         }
 
-        // Реалізація вміння "Малювати"
+       
         public void Draw()
         {
             Console.WriteLine($"{FirstName} {LastName} (Студент) малює графік для лабораторної.");

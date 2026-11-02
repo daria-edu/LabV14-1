@@ -4,7 +4,7 @@ namespace DomainLib
 {
     public class Mountaineer : Person, IDrawable
     {
-        public int HighestPeak { get; set; } // Найвища вершина у метрах
+        public int HighestPeak { get; set; } 
 
         public Mountaineer(string firstName, string lastName, string passport, int highestPeak)
             : base(firstName, lastName, passport)

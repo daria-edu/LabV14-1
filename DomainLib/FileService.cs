@@ -13,7 +13,6 @@ namespace DomainLib
             _fileName = fileName;
         }
 
-        // 1. Запис масиву людей у файл (Потоковий запис)
         public void SaveToFile(Person[] people)
         {
             using (StreamWriter writer = new StreamWriter(_fileName, false, Encoding.UTF8))
@@ -56,13 +55,12 @@ namespace DomainLib
             }
         }
 
-        // 2. Читання з файла (Потокове читання без використання List<T>)
+        
         public Person[] ReadFromFile()
         {
             if (!File.Exists(_fileName))
                 return new Person[0];
 
-            // Масив із запасом (оскільки стандартні колекції використовувати заборонено)
             Person[] temp = new Person[100];
             int count = 0;
 
@@ -102,7 +100,7 @@ namespace DomainLib
                     }
                     else if (line.StartsWith("};"))
                     {
-                        // Створюємо відповідний об'єкт і додаємо в масив
+                        
                         if (currentType == "Student")
                             temp[count++] = new Student(fn, ln, pass, course, stId, scholarship);
                         else if (currentType == "Postman")
@@ -115,7 +113,7 @@ namespace DomainLib
                 }
             }
 
-            // Обрізаємо масив до фактичної кількості елементів
+            
             Person[] result = new Person[count];
             Array.Copy(temp, result, count);
             return result;

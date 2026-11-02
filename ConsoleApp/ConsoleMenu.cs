@@ -50,7 +50,7 @@ namespace ConsoleApp
             }
         }
 
-        // 1. Заповнення файлу тестовими даними (більше 5 осіб)
+        
         private void SeedData()
         {
             Person[] people = new Person[]
@@ -67,7 +67,7 @@ namespace ConsoleApp
             Console.WriteLine("Початкові дані успішно збережено у файл!");
         }
 
-        // 2. Виведення всіх даних із файлу
+        
         private void ShowAllData()
         {
             Person[] people = _fileService.ReadFromFile();
@@ -85,7 +85,7 @@ namespace ConsoleApp
             }
         }
 
-        // 3. Завдання Варіанту 14
+       
         private void ProcessVariant14()
         {
             Person[] people = _fileService.ReadFromFile();
@@ -95,10 +95,10 @@ namespace ConsoleApp
 
             foreach (var person in people)
             {
-                // Перевіряємо, чи це студент
+                
                 if (person is Student student)
                 {
-                    // Перевіряємо умови варіанту 14
+                    
                     if (student.Course == 4 && student.Scholarship == 0)
                     {
                         Console.WriteLine(student.GetInfo());
@@ -110,7 +110,7 @@ namespace ConsoleApp
             Console.WriteLine($"\nЗагальна кількість таких студентів: {count}");
         }
 
-        // 4. Демонстрація поліморфізму та інтерфейсу IDrawable
+        
         private void DemonstrateDrawing()
         {
             Person[] people = _fileService.ReadFromFile();

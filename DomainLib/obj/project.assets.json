@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daria\\Lab1-V14\\DomainLib\\DomainLib.csproj",
+      "projectUniqueName": "C:\\Lab1-V14\\DomainLib\\DomainLib.csproj",
       "projectName": "DomainLib",
-      "projectPath": "C:\\Users\\Daria\\Lab1-V14\\DomainLib\\DomainLib.csproj",
+      "projectPath": "C:\\Lab1-V14\\DomainLib\\DomainLib.csproj",
       "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daria\\Lab1-V14\\DomainLib\\obj\\",
+      "outputPath": "C:\\Lab1-V14\\DomainLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daria\\AppData\\Roaming\\NuGet\\NuGet.Config"
